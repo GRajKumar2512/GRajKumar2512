@@ -52,5 +52,6 @@
 ###
 <p align="center">Streak:</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GRajKumar2512&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GRajKumar2512&theme=ocean-gradient&hide_border=true&type=png)](https://git.io/streak-stats)
+</div>
