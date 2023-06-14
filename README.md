@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&duration=2500&font=Bahnschrift&lines=Hi+I'm+G.Raj+Kumar;A+MERN+Stack+Developer+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20C20E&duration=2500&font=Bahnschrift&lines=Hi+I'm+G.Raj+Kumar,;A+MERN+Stack+Developer+!)](https://git.io/typing-svg)
 
 <p align="center">Stats:</p>
 
@@ -38,6 +38,15 @@
 </div>
 
 ###
+<p align="center">Streak:</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=GRajKumar2512&theme=tokyonight&hide_border=true&type=png" alt="GitHub Streak">
+  </a>
+</p>
+
+###
 <p align="center">Connect:</p>
 
 <div align="center">
@@ -48,15 +57,5 @@
     <img src="https://skillicons.dev/icons?i=twitter" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
-
-###
-<p align="center">Streak:</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=GRajKumar2512&theme=hacker&hide_border=true&type=png" alt="GitHub Streak">
-  </a>
-</p>
-
 
 
