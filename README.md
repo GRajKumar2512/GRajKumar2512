@@ -51,6 +51,7 @@
 
 ###
 <p align="center">Streak:</p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GRajKumar2512&theme=ocean-gradient&hide_border=true&type=png)](https://git.io/streak-stats)
 
 
