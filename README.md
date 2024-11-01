@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20C20E&duration=2500&font=Bahnschrift&lines=Hi+I'm+G.Raj+Kumar,;A+MERN+Stack+Developer+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20C20E&duration=2500&font=Bahnschrift&lines=Hi+I'm+G.Raj+Kumar,;A+Android+Developer+!)](https://git.io/typing-svg)
 
 <p align="center">Stats:</p>
 
