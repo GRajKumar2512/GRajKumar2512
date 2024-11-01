@@ -11,8 +11,6 @@
 ###
 <p align="center">Technologies:</p>
 
-<img src="https://audiopitara.s3.ap-south-1.amazonaws.com/file5295662477033139513jpeg_1717652446964.plain" height="40" alt="nextjs"  />
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs"  />
   <img width="12" />
