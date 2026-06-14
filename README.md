@@ -1,69 +1,89 @@
+<!--
+  GitHub Profile README — G. Raj Kumar
+  ────────────────────────────────────
+  Save this as README.md inside a repository named EXACTLY after your
+  GitHub username. GitHub will render it at the top of your profile.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20C20E&duration=2500&font=Bahnschrift&lines=Hi+I'm+G.Raj+Kumar,;A+Android+Developer+!)](https://git.io/typing-svg)
+  Replace the few [BRACKETED] placeholders (username + links) with your own.
+-->
 
-<p align="center">Stats:</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GRajKumar2512&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GRajKumar2512&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-<p align="center">Technologies:</p>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
-
-###
-<p align="center">Streak:</p>
+<h1 align="center">Hi, I'm G. Raj Kumar 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=GRajKumar2512&theme=tokyonight&hide_border=true&type=png" alt="GitHub Streak">
-  </a>
+  Mobile Engineer (Android &amp; iOS) · Electronics &amp; Computer Engineering grad · now exploring the cloud ☁️
 </p>
 
-###
-<p align="center">Connect:</p>
+<p align="center">
+  <a href="[LINKEDIN_URL]">LinkedIn</a> ·
+  <a href="[MEDIUM_URL]">Medium</a> ·
+  <a href="mailto:[EMAIL]">Email</a>
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/g-raj-kumar-802834212/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/GaadiRaj" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
+---
 
+### About me
 
+I'm a software engineer with a B.Tech in **Electronics & Computer Engineering (2020–2024)**. I started my career as a Software Engineer Trainee and grew across the full product stack — from web, to native Android, to iOS — and I'm currently expanding into cloud with **AWS**.
+
+- 📱 Build native apps with **Kotlin / Jetpack Compose** and **Swift / SwiftUI**
+- 🩺 Shipped a **healthcare app** on Android, then rebuilt it natively for iOS
+- 🧩 Solved **230+ LeetCode** problems (Top Interview 150 · NeetCode 150)
+- ✍️ Write **Medium** blogs on Android development
+- 🌱 Currently learning **AWS / cloud**
+
+---
+
+### My journey so far
+
+| When | What |
+| :--- | :--- |
+| **Oct 2023** | Joined as **Software Engineer Trainee** — frontend with HTML, CSS, JavaScript, React.js, Next.js, then backend with Node.js |
+| **Mar 2024** | Moved into **Android** — Kotlin, Jetpack Compose, XML Views, MVVM & MVI, Coroutines |
+| **Mar 2025** | Picked up **iOS** — Swift & SwiftUI; built the iOS version of my Kotlin healthcare app |
+| **Now** | Exploring **AWS** and cloud fundamentals |
+
+---
+
+### Tech I work with
+
+**Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+</p>
+
+**Web**
+
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+
+**Currently exploring**
+
+<p>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GRajKumar2512&show_icons=true&hide_border=true&count_private=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRajKumar2512&layout=compact&hide_border=true&theme=default" />
+</p>
+
+<!-- Replace [USERNAME] in BOTH image URLs above with your GitHub handle. -->
+
+---
+
+<p align="center">
+  <i>From web to mobile to cloud — always shipping, always learning.</i>
+</p>
