@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="[LINKEDIN_URL]">LinkedIn</a> ·
-  <a href="[MEDIUM_URL]">Medium</a> ·
-  <a href="mailto:[EMAIL]">Email</a>
+  <a href="https://www.linkedin.com/in/grajkumar-dev/">LinkedIn</a> ·
+  <a href="https://medium.com/@raj2512flair">Medium</a> ·
+  <a href="https://leetcode.com/u/grajkumar2512/">Leetcode</a>
 </p>
 
 ---
